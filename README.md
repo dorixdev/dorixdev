@@ -20,21 +20,21 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#!)&nbsp;
 [![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#!)&nbsp;
 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)&nbsp;
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)&nbsp;
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)&nbsp;
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#!)&nbsp;
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#!)&nbsp;
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#!)&nbsp;
 
-[![My SQL](https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql)](#)&nbsp;
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)&nbsp;
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)&nbsp;
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)&nbsp;
+[![My SQL](https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql)](#!)&nbsp;
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#!)&nbsp;
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#!)&nbsp;
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#!)&nbsp;
 
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)&nbsp;
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)&nbsp;
-[![Vercel](https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=black)](#)&nbsp;
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#!)&nbsp;
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#!)&nbsp;
+[![Vercel](https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=black)](#!)&nbsp;
 
-[![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)](#)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)&nbsp;
+[![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)](#!)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#!)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 
