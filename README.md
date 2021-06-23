@@ -38,6 +38,6 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-[![My Github Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=MtzAlfonso96&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=contribs)](#)
+[![My Github Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=MtzAlfonso96&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=contribs)](#!)
 
-[![My Favorites Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MtzAlfonso96&layout=compact&langs_count=6&theme=react)](#)
+[![My Favorites Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MtzAlfonso96&layout=compact&langs_count=6&theme=react)](#!)
