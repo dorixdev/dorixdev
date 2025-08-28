@@ -1,8 +1,8 @@
+![Banner](https://raw.githubusercontent.com/dorixdev/dorixdev/main/.github/images/hero-banner.png)
+
 # 👋 Hi, I'm J. Alfonso Martínez
 
 ### _Software Engineer | Frontend Developer | Tech Enthusiast_
-
-![Banner](https://raw.githubusercontent.com/dorixdev/dorixdev/main/.github/images/banner.png)
 
 💡 I love exploring new technologies and building software solutions (sometimes even quick hacks 🚀).
 
