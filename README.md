@@ -40,4 +40,4 @@
 
 <!-- [![My Github Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=MtzAlfonso96&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=contribs)](#!) -->
 
-[![My Favorites Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MtzAlfonso&layout=compact&langs_count=6&theme=react)](#!)
+[![My Favorites Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dorixdev&layout=compact&langs_count=6&theme=react)](#!)
